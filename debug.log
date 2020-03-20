@@ -1,0 +1,4 @@
+[0318/203622.533:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0318/203622.534:ERROR:exception_snapshot_win.cc(98)] thread ID 10208 not found in process
+[0318/203622.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0318/203622.618:ERROR:exception_snapshot_win.cc(98)] thread ID 18008 not found in process
